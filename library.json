@@ -1,0 +1,27 @@
+[
+  {
+    "judul": "Buku Gambar",
+    "author": "Djoko",
+    "id": 1
+  },
+  {
+    "judul": "Buku Tulis",
+    "author": "Djoko dan Djoki",
+    "id": 2
+  },
+  {
+    "judul": "Buku Tebal",
+    "author": "Si A",
+    "id": 3
+  },
+  {
+    "judul": "Buku Tipis",
+    "author": "Si B",
+    "id": 4
+  },
+  {
+    "judul": "Buku Skripsi",
+    "author": "Si B dan Si C",
+    "id": 5
+  }
+]
